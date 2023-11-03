@@ -1,6 +1,6 @@
 import Container from "./components/Container";
 import Navbar from "./components/Navbar";
-import "./app.css"
+
 import AddNotes from "./components/AddNotes";
 import Notes from "./components/notes";
 import { Navigate, Route, Routes } from "react-router-dom";
