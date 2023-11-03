@@ -2,7 +2,7 @@ import Container from "./components/Container";
 import Navbar from "./components/Navbar";
 
 import AddNotes from "./components/AddNotes";
-import Notes from "./components/notes";
+import Notes from "./components/Notes";
 import { Navigate, Route, Routes } from "react-router-dom";
 import TaskAdded from "./components/TaskAdded";
 
